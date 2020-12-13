@@ -10,7 +10,7 @@ Now if i want to change the style of linne as the **bold** or *italic* by using 
 
 Also we have learnt how to add a link of any wesite like [Google](http://google.com)
 at this website you will find the serch engine which is famous and thier **logo** is below:
-![Google Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fdownload%2F19624&psig=AOvVaw0b6M58oyrJe8VxWdqlVHMY&ust=1607958080322000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi15eOcy-0CFQAAAAAdAAAAABAD)
+![Google Logo](https://pngimg.com/uploads/google/google_PNG19624.png)
 
 and that set we will take a lot in the next lectures.
 
