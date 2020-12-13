@@ -1,7 +1,8 @@
 # reading-notes
 # second day of our course blog
 
-yesterday we have learned many things in HTML but today is different ,because we learned how to use '#' insted of '<h1>' so if i want to header any woeds just i will put '#' before it.
+
+yesterday we have learned many things in HTML but today is different ,because we learned how to use  insted of h1, so if i want to header any woeds just i will put '#' before it.
 Now if i want to change the style of linne as the **bold** or *italic* by using '**' or '*' respectively.
 
 **there are many differences between HTML and markdown:**
