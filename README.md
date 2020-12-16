@@ -5,7 +5,7 @@
 # what is the “growth mindset” ??
  
  It is an inquiry into the **power** of our beliefs, *both conscious and unconscious*, and how changing even the simplest of them can have profound impact on nearly every aspect of our lives.
- A “growth mindset” thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities.
+ A **“growth mindset”** thrives on challenge and sees failure not as evidence of unintelligence ***but as a heartening springboard for growth and for stretching our existing abilities.***
  
  if i want to keep myself in a growth mindset not fixed, i have to be on the below points:
  * i will not ~~give up~~ , but i will persist in the face of setbacks.
