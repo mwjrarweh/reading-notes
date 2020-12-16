@@ -16,7 +16,6 @@ Include 3 reminders to yourself of how to keep yourself in a growth mindset
  
 
 ![mindset](https://www.openxcell.com/wp-content/uploads/2020/02/10-things-to-know-before-you-think-of-scaling-your-business.jpg)
-![mindset](https://www.openxcell.com/wp-content/uploads/2020/02/10-things-to-know-before-you-think-of-scaling-your-business.jpg)
 
 
 
