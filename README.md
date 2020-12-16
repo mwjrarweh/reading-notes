@@ -1,18 +1,17 @@
 # reading-notes
 # updated notes of our course blog
 
-Include 3 reminders to yourself of how to keep yourself in a growth mindset
-
+# (Lab: 01b)
 # what is the “growth mindset” ??
  
- it is an inquiry into the power of our beliefs, both conscious and unconscious, and how changing even the simplest of them can have profound impact on nearly every aspect of our lives.
+ It is an inquiry into the **power** of our beliefs, *both conscious and unconscious*, and how changing even the simplest of them can have profound impact on nearly every aspect of our lives.
  A “growth mindset” thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities.
  
  if i want to keep myself in a growth mindset not fixed, i have to be on the below points:
- 1- i will not give up , but i will persist in the face of setbacks.
- 2-i will embrace all challenges not avoid it.
- 3-my efforts will be the path to my golls not fruitless.
- 4-i will achieve my nots and ideas 💡.
+ * i will not ~~give up~~ , but i will persist in the face of setbacks.
+ * i will embrace all challenges not avoid it:+1:.
+ * my efforts will be the path to my golls not fruitless.
+ * i will achieve my nots and ideas 💡.
  
 
 ![mindset](https://www.openxcell.com/wp-content/uploads/2020/02/10-things-to-know-before-you-think-of-scaling-your-business.jpg)
