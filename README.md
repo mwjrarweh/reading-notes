@@ -1,16 +1,23 @@
 # reading-notes
-# second day of our course blog
-# How you can benefit from a growth mindset??
+# updated notes of our course blog
 
-The growth mindset can open **pathways** to more *creativity and possibility*, and enable the setting of higher goals and more **achievement**.
+Include 3 reminders to yourself of how to keep yourself in a growth mindset
 
-# What is a growth mindset?
-A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+# what is the “growth mindset” ??
+ 
+ it is an inquiry into the power of our beliefs, both conscious and unconscious, and how changing even the simplest of them can have profound impact on nearly every aspect of our lives.
+ A “growth mindset” thrives on challenge and sees failure not as evidence of unintelligence but as a heartening springboard for growth and for stretching our existing abilities.
+ 
+ if i want to keep myself in a growth mindset not fixed, i have to be on the below points:
+ 1- i will not give up , but i will persist in the face of setbacks.
+ 2-i will embrace all challenges not avoid it.
+ 3-my efforts will be the path to my golls not fruitless.
+ 4-i will achieve my nots and ideas 💡.
+ 
 
-By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
+![mindset](https://www.openxcell.com/wp-content/uploads/2020/02/10-things-to-know-before-you-think-of-scaling-your-business.jpg)
+![mindset](https://www.openxcell.com/wp-content/uploads/2020/02/10-things-to-know-before-you-think-of-scaling-your-business.jpg)
 
-Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
-![mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 
 
