@@ -13,7 +13,7 @@ Git helps edit your main project by cloning it then merging without changing the
 also **Git** is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
 
-**below you can finde some git commands and how we can use them**
+**below you can finde some git commands and why we use them**
 
 1- git push to send the committed changes of master branch to your remote repository.
 
