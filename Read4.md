@@ -13,12 +13,6 @@
 
 #### An HTML element is defined by a start tag and the content between tags then the end tag.
 
-1st tag      |Element content     |last tag 
------------- | -------------      | -------------
-<h1>         |   First Head       | </h1>
-<p>          |   first paragraph  | </p>
-
-
 
 ## HTML Tags
 Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
@@ -103,17 +97,8 @@ h1{
 
 
 
-
+![..](https://i.pinimg.com/originals/99/62/83/996283a2b48a3b7140be9a511ba013f1.jpg)
 
 
 **Monday-14/12/2020**
 
-**This is what I leanred in class 102_04:**
-
-* I learned the following:
-1. Your content and design should be influenced by the goals of your users.
-2. Find out What Information Your Visitors Need and try to put this information.
-3. How Often People Will Visit Your Site, to make sure to keep updating your site
-4. Wireframe is a simple sketch of each page of a site.
-5. Visual hierarchy, size, color, and style matters.
-6. HTML layouts, Header, Footer, navigation, articles, div, and sections.
