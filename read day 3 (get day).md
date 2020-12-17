@@ -27,7 +27,7 @@ also **Git** is a distributed version-control system for tracking changes in any
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 
 
-are you interesting to join github today !! (click here )[https://github.com]
+are you interesting to join github today !! [click here](https://github.com)
 
 thank you .... see you next
 
